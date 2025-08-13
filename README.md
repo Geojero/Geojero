@@ -1,4 +1,4 @@
-# 🚀 Welcome to George Jeron's Digital World 🚀
+# 🚀 Welcome to Jero's Digital World 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&background=00000000&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+George+Jeron+%F0%9F%91%8B;React+Developer+%7C+Full+Stack+Engineer;Building+Amazing+User+Experiences+%F0%9F%8E%A8;Final+Year+CSE+Student+%F0%9F%8E%93" alt="Typing SVG" />
