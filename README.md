@@ -31,8 +31,8 @@
 const george = {
     name: "George Jeron M",
     role: "Digital Creator & React Developer",
-    location: "India 🇮🇳",
-    education: "CSE Final Year @ JACSICE",
+    location: "Hyderabad 🇮🇳",
+    education: "Computer Science Engineer @ JACSICE",
     cgpa: "8.21/10.0",
     experience: "Multiple Tech Internships",
     passion: "Creating Digital Experiences",
@@ -72,13 +72,13 @@ const george = {
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,figma&theme=dark" alt="Frontend Skills"/>
 
 ### ⚙️ Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase,postman&theme=dark" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mongodb,mysql,firebase&theme=dark" alt="Backend Skills"/>
 
 ### 🧠 Languages & Tools
 <img src="https://skillicons.dev/icons?i=python,java,c,git,vscode,github,vercel&theme=dark" alt="Languages and Tools"/>
 
 ### 🚀 Learning & Exploring
-<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,aws,redux,graphql&theme=dark" alt="Learning"/>
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,docker,redux,graphql&theme=dark" alt="Learning"/>
 
 </div>
 
