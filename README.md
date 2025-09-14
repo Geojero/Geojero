@@ -269,7 +269,6 @@ const george = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🎨 Creative Showcase
 
 <div align="center">
 
@@ -277,7 +276,6 @@ const george = {
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs"/>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=header&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn"/>
 
 </div>
 
