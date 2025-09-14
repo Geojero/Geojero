@@ -10,9 +10,8 @@
 
 <!-- Profile views and followers -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Geojero&style=for-the-badge&color=00D4FF&label=Views" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/Followers-99%2B-00D4FF?style=for-the-badge&labelColor=000000" alt="Followers"/>
-
+<img src="https://komarev.com/ghpvc/?username=Geojero&style=for-the-badge&color=00D4FF&labelColor=000000" alt="Profile Views"/> \
+  <img src="https://img.shields.io/github/followers/Geojero?style=for-the-badge&color=00D4FF&labelColor=000000" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/Geojero?style=for-the-badge&color=00D4FF&labelColor=000000" alt="Stars"/>
 </div>
 
