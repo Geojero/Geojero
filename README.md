@@ -187,12 +187,6 @@ const george = {
 ### ⚡ Contribution Streak
 <img src="https://streak-stats.demolab.com/?user=Geojero&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Geojero&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=38BDAE&point=70A5FD"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 Achievement Showcase
 
@@ -282,56 +276,20 @@ const george = {
 ### 💭 Developer Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs"/>
 
-### 🎵 Coding Playlist Vibe
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify&width=400&height=120"/>
 
-### 🌟 Visitor's Digital Signature
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=header&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=fadeIn"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 Ready to Collaborate?
 
-<div align="center">
-
-### 🤝 Open for Opportunities
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Internships-Open-success?style=for-the-badge&logo=handshake&logoColor=white"/><br>
-<sub>Looking for challenging roles</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Collaborations-Welcome-blue?style=for-the-badge&logo=git-merge&logoColor=white"/><br>
-<sub>Open source & personal projects</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mentorship-Available-orange?style=for-the-badge&logo=graduation-cap&logoColor=white"/><br>
-<sub>Helping fellow developers</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Freelancing-Active-purple?style=for-the-badge&logo=upwork&logoColor=white"/><br>
-<sub>Web development projects</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- Footer with animated background -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let's%20Build%20The%20Future%20Together!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
 </div>
 
-<!-- Snake eating contributions animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Geojero/Geojero/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Geojero/Geojero/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Geojero/Geojero/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
