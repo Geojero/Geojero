@@ -5,7 +5,7 @@
 
 <!-- Animated typing effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=1000&lines=Digital+Creator+%F0%9F%8E%A8;React+Specialist+%E2%9A%9B%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Expert+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Innovation+Driver+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=1000&lines=Extension+Developer+%F0%9F%8E%A8;React+Specialist+%E2%9A%9B%EF%B8%8F;Full-Stack+Developer+%F0%9F%9A%80;AI+Integration+Expert+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Innovation+Driver+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <!-- Profile views and followers -->
